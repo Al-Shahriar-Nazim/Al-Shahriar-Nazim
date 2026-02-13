@@ -14,7 +14,7 @@ Skills: Tailwind / BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently learning on Frontend Web Development
 
-- 🌱 I’m currently learning Java, C++
+- 🌱 I’m currently learning Next.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/Al-Shahriar-Nazim](https://github.com/Al-Shahriar-Nazim)
 
